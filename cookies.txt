@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fautsy.com	TRUE	/	FALSE	1999999999	PHPSESSID	1f628934f1379be43e10b76956672f10
+fautsy.com	TRUE	/	FALSE	1999999999	cf_ob_info	522:66fdd81eac721d31:BLR
+fautsy.com	TRUE	/	FALSE	1999999999	cf_use_ob	80
+
